@@ -11,11 +11,7 @@
 
 This Tutoring Management System was developed for higher education institutions to handle their work through an online platform. Also, this system provides solutions for most problems they faced during pandemic situations as well. 
 
-This project is developed for assignment purposes in the university year 02 semester 02 module called Information Technology Project. I scored an 'A' grade for this module.
-
-◾ In this project our team had eight members. I worked as a team leader on this project.
-
-◾ I developed the Exam Management part in this system. 
+This project is developed for assignment purposes in the university year 02 semester 02 module called Information Technology Project.
 
 ◾ Used Technologies - HTML 5, CSS 3, JavaScript, PHP, and SQL
 
